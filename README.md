@@ -1,4 +1,1 @@
-# hello-world
-
-
-Additional text and edits for HW1 test. I have never used git, but it seems very useful.  
+# hello-worldAmy Gall is a 5th year graduate student at Clemson University.  This is her repository to practice using git. Hw2
